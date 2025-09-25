@@ -3,7 +3,7 @@ jwt:
   secretKey: adkhbafbaki28922982bjkafdkjabfabfjkabfjFjbalbf222hjngsgsg33333fsfsfsfs
 
 #api gateway config
-
+spring:
   cloud:
     gateway:
       routes:
